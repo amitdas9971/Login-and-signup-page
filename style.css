@@ -1,0 +1,43 @@
+body{
+   font-family: Arial, sans-serif;
+  background-image: url(picture.jpg);
+}
+.center_box{
+  position: absolute;
+  left: 30%;
+  top: 15%;
+  background-color: #E6F2E6;
+  height: 70%;
+  width: 40%;
+  border-radius: 10px 10px 10px 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.welcome{
+   font-family: "Lugrasimo", cursive;
+   color: #75A47F;
+}
+.login_page{
+  position: absolute;
+  left: 30%;
+  top: 10%;
+}
+.btn{
+  position: absolute;
+  top: 60%;
+  left: 35%;
+}
+.btn p{
+  color: black;
+  text-decoration: none;
+}
+.btn p:hover{
+  color:#8FB9A2;
+}
+.username h2{
+  margin-bottom: 5px;
+  color: #75A47F;
+}
+.password h2{
+  margin-bottom: 5px;
+  color: #75A47F;
+}
